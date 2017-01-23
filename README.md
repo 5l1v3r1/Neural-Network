@@ -1,5 +1,5 @@
 # Neural-Network
-A Java implementation of AI-Junkie's ANN blog posts
+A Java implementation based on AI-Junkie's ANN blog posts
 
 Original blog can be found [here](http://www.ai-junkie.com/ann/evolved/nnt1.html)
 
