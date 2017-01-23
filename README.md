@@ -1,8 +1,6 @@
 # Neural-Network
-A Java implementation of AI-Junkie's ANN tutorial
+A Java implementation of AI-Junkie's ANN blog posts
 
-Original tutorial can be found [here](http://www.ai-junkie.com/ann/evolved/nnt1.html)
-
-Changed it to ants because it made more sense to me
+Original blog can be found [here](http://www.ai-junkie.com/ann/evolved/nnt1.html)
 
 Makes use of [Peter Li's](https://github.com/tyuo9980) PCPC console for drawing
